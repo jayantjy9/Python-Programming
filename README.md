@@ -1,2 +1,2 @@
-# EDA
+# Python
 Exploratory Data Analysis
